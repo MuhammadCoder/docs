@@ -19,16 +19,16 @@
           }
         ]
       },
-
       {
         "language": "es",
         "groups": [
           {
             "group": "Getting Started",
-            "pages": ["es/overview", "es/quickstart", "es/development"]
+            "pages": ["es/introduction", "es/quickstart", "es/development"]
           }
         ]
-      },
+      }
+    ]
     "tabs": [
       {
         "tab": "Guides",
