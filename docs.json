@@ -18,7 +18,8 @@
             "pages": [
               "introduction",
               "quickstart",
-              "development"
+              "development",
+              "testnewess"
             ]
           },
           {
@@ -29,7 +30,9 @@
               "essentials/images",
               "essentials/settings",
               "essentials/navigation",
+              "essentials/testnew",
               "essentials/reusable-snippets"
+          
             ]
           }
         ]
