@@ -41,12 +41,11 @@
           "Product/User-management",
           "Product/Payment",
           "Product/Mobile-and-desktop",
-          "Product/Inbox",
+          "Product/Inbox"
         ]
-      },
+      }
     ]
   },
-
 
   "logo": {
     "light": "/logo/Visito Logo.svg",
