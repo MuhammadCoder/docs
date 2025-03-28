@@ -20,11 +20,11 @@
       {
         "group": "Channels & integrations",
         "pages": [
-          "Channets-integrations/Webchat",
-          "Channets-integrations/Instagram",
-          "Channets-integrations/Messenger",
-          "Channets-integrations/WhatsApp",
-          "Channets-integrations/Cloudbeds"
+          "Channels-integrations/Webchat",
+          "Channels-integrations/Instagram",
+          "Channels-integrations/Messenger",
+          "Channels-integrations/WhatsApp",
+          "Channels-integrations/Cloudbeds"
         ]
       },
        {
@@ -34,8 +34,16 @@
           "AI-agent/AI-behavior",
           "AI-agent/Test-your-agent"
         ]
-      }
-      
+      },
+       {
+        "group": "Product",
+        "pages": [
+          "Product/User-management",
+          "Product/Payment",
+          "Product/Mobile-and-desktop",
+          "Product/Inbox",
+        ]
+      },
     ]
   },
 
