@@ -3,7 +3,7 @@
   "theme": "maple",
   "name": "Visito Guide",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#007A61",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -41,7 +41,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Login",
+      "label": "Log in",
       "href": "https://app.visitoai.com/auth/login?pathname=/"
     }
   },
