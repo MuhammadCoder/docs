@@ -9,6 +9,28 @@
   },
   "favicon": "/favicon.svg",
 
+  {
+  "navigation": {
+    "groups": [
+      {
+        "group": "Getting Started",
+        "pages": [
+          "quickstart",
+          {
+            "group": "Editing",
+            "icon": "pen-paintbrush",
+            "pages": ["development", "web-editor"]
+          }
+        ]
+      },
+      {
+        "group": "Writing Content",
+        "pages": ["writing-content/page", "writing-content/text"]
+      }
+    ]
+  }
+}
+
   "logo": {
     "light": "/logo/light.svg",
     "dark": "/logo/dark.svg"
