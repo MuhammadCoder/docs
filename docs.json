@@ -36,7 +36,9 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hi@mintlify.com",
+        "label": "Contact us",
+        "href": "www.google.com",
       }
     ],
     "primary": {
