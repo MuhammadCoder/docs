@@ -9,7 +9,6 @@
   },
   "favicon": "/favicon.svg",
 
-  {
   "navigation": {
     "groups": [
       {
@@ -28,8 +27,8 @@
         "pages": ["writing-content/page", "writing-content/text"]
       }
     ]
-  }
-},
+  },
+
 
   "logo": {
     "light": "/logo/light.svg",
