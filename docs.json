@@ -12,19 +12,17 @@
   "navigation": {
     "groups": [
       {
-        "group": "Getting Started",
+        "group": "Getting-started",
         "pages": [
-          "quickstart",
-          {
-            "group": "Editing",
-            "icon": "pen-paintbrush",
-            "pages": ["development", "web-editor"]
-          }
+          "Getting-started/activate-your-account",
+          "quickstart"
         ]
       },
       {
-        "group": "Writing Content",
-        "pages": ["writing-content/page", "writing-content/text"]
+        "group": "Essentials",
+        "pages": [
+          "essentials/markdown"
+        ]
       }
     ]
   },
