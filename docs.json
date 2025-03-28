@@ -14,7 +14,7 @@
       {
         "group": "Getting started",
         "pages": [
-          "Getting-started/activate-your-account",
+          "Getting-started/activate-your-account"
         ]
       },
       {
@@ -24,7 +24,7 @@
           "Channets-integrations/Instagram",
           "Channets-integrations/Messenger",
           "Channets-integrations/WhatsApp",
-          "Channets-integrations/Cloudbeds",
+          "Channets-integrations/Cloudbeds"
         ]
       },
        {
@@ -32,7 +32,7 @@
         "pages": [
           "AI-agent/Data-source",
           "AI-agent/AI-behavior",
-          "AI-agent/Test-your-agent",
+          "AI-agent/Test-your-agent"
         ]
       },
       
