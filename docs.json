@@ -12,18 +12,31 @@
   "navigation": {
     "groups": [
       {
-        "group": "Getting-started",
+        "group": "Getting started",
         "pages": [
           "Getting-started/activate-your-account",
-          "quickstart"
         ]
       },
       {
-        "group": "Essentials",
+        "group": "Channels & integrations",
         "pages": [
-          "essentials/markdown"
+          "Channets-integrations/Webchat",
+          "Channets-integrations/Instagram",
+          "Channets-integrations/Messenger",
+          "Channets-integrations/WhatsApp",
+          "Channets-integrations/Cloudbeds",
         ]
-      }
+      },
+       {
+        "group": "AI agent",
+        "pages": [
+          "AI-agent/Data-source",
+          "AI-agent/AI-behavior",
+          "AI-agent/Test-your-agent",
+        ]
+      },
+      
+      
     ]
   },
 
@@ -36,7 +49,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:hi@visitoai.com"
       }
     ],
     "primary": {
