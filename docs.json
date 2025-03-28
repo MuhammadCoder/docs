@@ -37,14 +37,12 @@
       {
         "label": "Support",
         "href": "mailto:hi@mintlify.com",
-        "label": "Contact us",
-        "href": "www.google.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Login",
+      "href": "https://app.visitoai.com/auth/login?pathname=/"
     }
   },
   "footer": {
