@@ -1,4 +1,154 @@
 ---
 title: "WhatsApp"
-description: "Description of your new file."
+description: "All messages are managed directly from Visito’s web dashboard or mobile app."
 ---
+
+## Requirements
+
+1. A Facebook account with access to a [**Meta Business Portfolio**](https://business.facebook.com/)
+2. A phone number that:
+   - Is **not currently active** on another WhatsApp account, or
+   - Has a **backup SIM** to free up the main number
+
+<Warning>
+  Once your number is connected, you **can no longer use WhatsApp Personal or Business App**.
+</Warning>
+
+### Is your number already in use on WhatsApp?
+
+You have 2 options:
+
+**Option 1 – Delete your WhatsApp account:**
+
+- Go to WhatsApp → _Settings \> Account \> Delete My Account_
+- Then proceed with the connection process in Visito
+
+**Option 2 – Use a backup SIM (recommended):**
+
+1. Get a second SIM (backup)
+2. Optional: Back up your chat history
+   - [Android](https://faq.whatsapp.com/481135090640375/?cms_platform=android) | [iPhone](https://faq.whatsapp.com/481135090640375/?cms_platform=iphone)
+3. In WhatsApp: _Settings \> Account \> Change Number_
+4. Enter your current and new number
+5. Verify the new one → your original number is now free for Visito
+
+---
+
+## How to connect your number to Visito
+
+1. Log in to your [**Visito account**](https://app.visitoai.com/auth/login)
+2. Go to the [**Connect**](https://app.visitoai.com/connect) page and select: **WhatsApp \> Connect**
+3. From Visito, log into your **Facebook account** (must have access to your Meta Business Portfolio)
+4. Follow the steps in Meta’s flow:
+   - Select your **Business Portfolio**
+   - Enter your **business name, website, and country**
+   - Create your **WhatsApp Business Account**
+   - **Add the phone number you want to connect**
+
+     **Important:** Do NOT use the free number provided by Meta.
+
+     You must use a real number that you own and have access to.
+   - Verify your number via **SMS or phone call**
+
+---
+
+## Add a payment method in Meta
+
+> This step is required to send outbound messages via Visito using the WhatsApp API.
+
+### How to add your payment method:
+
+1. Go to [Billing & Payments](https://business.facebook.com/billing_hub)
+2. Click on **Add payment method**
+3. Enter your card details and click **Next**
+4. Add your business info and click **Save**
+5. Go back to the 3-dot menu and set this method as your **Default Payment**
+
+🔗 Check country-specific rates (look for the "Utility" template):
+
+[WhatsApp Pricing – Meta](https://business.whatsapp.com/products/platform-pricing)
+
+> **Meta charges for:**
+
+- Outbound messages sent **after 24 hours** of last user interaction
+- **Automated messages from events** (if you use a PMS integration)
+- **Brand-new conversations** started via the “New Conversation” feature
+
+---
+
+## Sending new WhatsApp messages
+
+1. In Visito, click **New Conversation**
+2. Fill in the required fields:
+   - Country and phone number
+   - (Optional) Contact name
+   - Your message (PDFs and images allowed)
+
+### Avoid Meta message restrictions:
+
+- Do not use more than 4 consecutive spaces
+- Avoid excessive line breaks
+- Use _bold_ or emojis to structure your message
+
+**Good example:**
+
+- `Reservation:* 123456 | *Check-in:* 3:00 PM | *Hotel:* Salvia 🌿`
+
+---
+
+## WhatsApp message status indicators
+
+- **✓ (1 black tick)**: Message Sent.
+- **✓✓ (2 black ticks):** Message Received.
+- **✓✓ (2 blue ticks)**: Message Read.
+- **✓ (1 red tick):** Message failed.
+
+### Possible reasons for delivery failure:
+
+- More than 24h passed since last user message
+- The number is not linked to a WhatsApp account
+- The contact has no internet connection
+
+**Test if a number has WhatsApp:**
+
+`https://wa.me/<country-code><phone-number>`
+
+Example: [wa.me/\+521234567890](http://wa.me/+521234567890)
+
+---
+
+## How to edit your WhatsApp profile picture
+
+1. Go to [WhatsApp Business Numbers](https://business.facebook.com/wa/manage/phone-numbers/)
+2. Make sure you’re in the correct WhatsApp account
+3. Click the **tool icon**
+4. Select **Profile**
+5. Click **Choose File** and upload your image
+6. Scroll down and click **Save**
+
+---
+
+## Meta Business Portfolio (Required for WhatsApp and Facebook)
+
+Meta (owner of WhatsApp and Facebook) requires you to manage your channels from a [**Meta Business Portfolio**](https://business.facebook.com/).
+
+### Checklist before connecting:
+
+- You must have admin access
+- WhatsApp and Facebook must be linked to your portfolio
+- Facebook login credentials ready
+
+### Don’t see your portfolio?
+
+- Create a new one or request access from your admin
+- Follow Meta’s official steps to manage your accounts
+
+---
+
+## 👥 How to invite your team to your Meta Business Portfolio
+
+1. Go to [**Settings**](https://business.facebook.com/latest/settings/)
+2. Click the **People** tab and then **\+ Invite People**
+3. Enter their email and choose access level
+4. Assign specific assets (Pages, WhatsApp numbers, etc.)
+5. Send the invitation
