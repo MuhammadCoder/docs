@@ -12,7 +12,7 @@
   "integrations": {
     "ga4": {
         "measurementId": "G-49L2GNFV48"
-    },
+    }
   },
 
   "navigation": {
