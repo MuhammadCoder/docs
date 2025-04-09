@@ -20,6 +20,7 @@
       {
         "group": "Getting started",
         "pages": [
+          "Getting-started/intro"
           "Getting-started/activate-your-account"
         ]
       },
